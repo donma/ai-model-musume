@@ -2,6 +2,8 @@
 
 AI 模型娘化角色圖像資料集。收錄多個主流 AI 模型（LLM / 圖像生成）的角色設定卡片與桌布圖像，按模型分類整理。
 
+![ChatGPT_Main_1](ChatGPT/ChatGPT_Main_1.png)
+
 ## 收錄模型
 
 | 資料夾 | 模型 |
