@@ -14,30 +14,32 @@ AI 模型娘化角色圖像資料集。收錄 22 個主流 AI 模型（LLM / 圖
 
 ## 收錄模型一覽
 
-| 資料夾 | 模型 | 預覽 |
-|--------|------|------|
-| ChatGPT | OpenAI ChatGPT (GPT) | ![ChatGPT](ChatGPT/ChatGPT_Main_1.png) |
-| ChatGPT_GPT-OSS | OpenAI ChatGPT GPT-OSS | ![GPT-OSS](ChatGPT_GPT-OSS/ChatGPT_GPT-OSS_Main_1.png) |
-| Claude_Fable | Anthropic Claude (Fable) | ![Claude Fable](Claude_Fable/Claude_Main_1.png) |
-| Claude_Opus | Anthropic Claude Opus | ![Claude Opus](Claude_Opus/Claude_Opus_Main_1.png) |
-| Claude_Sonnet | Anthropic Claude Sonnet | ![Claude Sonnet](Claude_Sonnet/Claude_Sonnet_Main_1.png) |
-| DeepSeek | DeepSeek | ![DeepSeek](DeepSeek/DeepSeek_Main_1.png) |
-| Doubao | 豆包 | ![Doubao](Doubao/Doubao_Main_1.png) |
-| Gemini | Google Gemini | ![Gemini](Gemini/Gemini_Main_1.png) |
-| Gemma | Google Gemma | ![Gemma](Gemma/Gemma_Main_1.png) |
-| GLM | 智譜 GLM | ![GLM](GLM/GLM_Main_1.png) |
-| Grok | xAI Grok | ![Grok](Grok/Grok_Main_1.png) |
-| Kimi | Moonshot Kimi | ![Kimi](Kimi/Kimi_Main_1.png) |
-| Llama | Meta Llama | ![Llama](Llama/Llama_Main_1.png) |
-| MAI | Microsoft Copilot Mai | ![MAI](MAI/Mai_Main_1.png) |
-| Mimo | Mimo | ![Mimo](Mimo/Mimo_Main_1.png) |
-| Minimax | MiniMax | ![Minimax](Minimax/Minimax_Main_1.png) |
-| Mistral | Mistral AI | ![Mistral](Mistral/Mistral_Main_1.png) |
-| Nemotron | NVIDIA Nemotron | ![Nemotron](Nemotron/Nemotron_Main_1.png) |
-| Phi | Microsoft Phi | ![Phi](Phi/Phi_Main_1.png) |
-| Qwen | 阿里通義千問 | ![Qwen](Qwen/Qwen_Main_1.png) |
-| Seedance | Seedance | ![Seedance](Seedance/Seedance_Main_1.png) |
-| Stable Diffusion | Stable Diffusion | ![Stable Diffusion](Stable%20Diffusion/Stable%20Diffusion_Main_1.png) |
+| 編號 | 資料夾 | 角色名稱 | 模型 / 家族 | 陣營 | 主色系 | 核心定位 | 預覽 |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 01 | ChatGPT | GPT娘 | GPT | OpenAI | 青綠、白、黑 | 通用型智慧助理 | ![01](ChatGPT/ChatGPT_Main_1.png) |
+| 02 | Claude_Opus | Claude Opus娘 | Claude Opus | Anthropic | 橘金、黑、象牙白 | 深度推理與長文分析 | ![02](Claude_Opus/Claude_Opus_Main_1.png) |
+| 03 | Claude_Sonnet | Claude Sonnet娘 | Claude Sonnet | Anthropic | 橘金、白、奶茶色 | 平衡型創作與理解 | ![03](Claude_Sonnet/Claude_Sonnet_Main_1.png) |
+| 04 | Claude_Fable | Claude Fable娘 | Claude Fable | Anthropic | 橘金、黑、童話棕 | 故事創作與敘事 | ![04](Claude_Fable/Claude_Main_1.png) |
+| 05 | Grok | Grok娘 | Grok | xAI | 紫黑、霓虹紫 | 即時情報與反骨社群觀察 | ![05](Grok/Grok_Main_1.png) |
+| 06 | Qwen | Qwen娘 | Qwen | Alibaba | 翡翠綠、白、墨綠 | 中文、商業、工程整合 | ![06](Qwen/Qwen_Main_1.png) |
+| 07 | Llama | Llama娘 | Llama | Meta | 藍、白、銀 | 開源社群基礎模型 | ![07](Llama/Llama_Main_1.png) |
+| 08 | GLM | GLM娘 | GLM | Zhipu AI | 深藍、黑、冰藍 | 中文知識與結構推理 | ![08](GLM/GLM_Main_1.png) |
+| 09 | Mimo | MiMo娘 | MiMo | Xiaomi | 橘、白、黑 | 智慧生活與裝置助理 | ![09](Mimo/Mimo_Main_1.png) |
+| 10 | DeepSeek | DeepSeek娘 | DeepSeek | DeepSeek | 深藍、白、海洋藍 | 數學、程式、深度推理 | ![10](DeepSeek/DeepSeek_Main_1.png) |
+| 11 | Minimax | MiniMax娘 | MiniMax | MiniMax | 粉紅、白、玫瑰紅 | 多模態互動與娛樂 | ![11](Minimax/Minimax_Main_1.png) |
+| 12 | Kimi | Kimi娘 | Kimi | Moonshot AI | 月白、深藍、銀 | 長文本閱讀與檔案整理 | ![12](Kimi/Kimi_Main_1.png) |
+| 13 | Mistral | Mistral娘 | Mistral | Mistral AI | 法國藍、白、橘紅 | 歐洲開源高速模型 | ![13](Mistral/Mistral_Main_1.png) |
+| 14 | Gemini | Gemini娘 | Gemini | Google DeepMind | 藍、紫、白 | 多模態搜尋與研究 | ![14](Gemini/Gemini_Main_1.png) |
+| 15 | Phi | Phi娘 | Phi | Microsoft | 微軟藍、白、黑 | 小型高效工程助手 | ![15](Phi/Phi_Main_1.png) |
+| 16 | Gemma | Gemma娘 | Gemma | Google | 寶石綠、白、淡藍 | 輕量開放研究模型 | ![16](Gemma/Gemma_Main_1.png) |
+| 17 | ChatGPT_GPT-OSS | GPT-OSS 120B娘 | GPT-OSS 120B | OpenAI OSS | 青綠、黑、鋼灰 | 大型開源權重模型 | ![17](ChatGPT_GPT-OSS/ChatGPT_GPT-OSS_Main_1.png) |
+| 18 | Doubao | Doubao娘 | Doubao | ByteDance | 粉紅、白、亮藍 | 日常內容與短影音助理 | ![18](Doubao/Doubao_Main_1.png) |
+| 19 | Stable Diffusion | Stable Diffusion娘 | Stable Diffusion | Stability AI | 紫、藍、銀、彩虹光 | 圖像生成與擴散繪圖 | ![19](Stable%20Diffusion/Stable%20Diffusion_Main_1.png) |
+| 20 | Seedance | Seedance娘 | Seedance | ByteDance | 紅、黑、金、霓虹橘 | 影片生成與動態分鏡 | ![20](Seedance/Seedance_Main_1.png) |
+| 21 | Nemotron | NVIDIA Nemotron娘 | NVIDIA Nemotron | NVIDIA | 螢光綠、黑、金屬灰 | GPU 算力與企業推理部署 | ![21](Nemotron/Nemotron_Main_1.png) |
+| 22 | MAI | Mai娘 | MAI / Microsoft AI | Microsoft AI | 微軟藍、白、黑、四色方塊光 | 全棧模型指揮官與 Copilot 工作流整合 | ![22](MAI/Mai_Main_1.png) |
+
+> 詳細角色設定（性格、視覺設定、核心能力、桌布重點、戀愛養成路線等）請參閱 [`settings.md`](settings.md)。
 
 ## 命名規則
 
